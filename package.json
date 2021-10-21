@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-personal",
+  "name": "cra-template-course-front-end",
   "version": "1.0.0",
   "keywords": [
     "react",
@@ -10,6 +10,14 @@
     "stylelint"
   ],
   "description": "The template for personal lint and more usefull tools.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cassyel/cra-template-course-front-end",
+    "directory": "cassyel/cra-template-course-front-end"
+  },
+  "bugs": {
+    "url": "https://github.com/cassyel/cra-template-course-front-end/issues"
+  },
   "license": "MIT",
   "files": [
     "template",

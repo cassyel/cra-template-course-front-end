@@ -1,10 +1,10 @@
-# CRA-TEMPLATE-PERSONAL
+# CRA-TEMPLATE-COURSE-FRONT-END
 
 ## About
 
 <br/>
 
-This is the official template personal.
+This template is Front-End Course
 
 <br/>
 
@@ -14,11 +14,10 @@ This is the official template personal.
 Eslint
 Stylelint
 Redux
-Redux-React
 Redux-Thunk
 Redux-DevTools
+React-Redux
 React-Router-Dom
-React-Bootstrap
 ```
 
 # Usage
@@ -40,7 +39,7 @@ yarn create react-app my-App
 You should add the flag <br/>
 
 ``
---template personal
+--template course-frontEnd
 ``
 <br/>
 <br/>
@@ -49,9 +48,9 @@ You should add the flag <br/>
 <br/>
 
 ```bash
-npx create-react-app my-App --template personal
+npx create-react-app my-App --template course-frontEnd
 ```
 or
 ```bash
-yarn create react-app my-App --template personal
+yarn create react-app my-App --template course-frontEnd
 ```
