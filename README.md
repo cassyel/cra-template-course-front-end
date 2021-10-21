@@ -39,7 +39,7 @@ yarn create react-app my-App
 You should add the flag <br/>
 
 ``
---template course-frontEnd
+--template course-front-end
 ``
 <br/>
 <br/>
@@ -48,9 +48,9 @@ You should add the flag <br/>
 <br/>
 
 ```bash
-npx create-react-app my-App --template course-frontEnd
+npx create-react-app my-App --template course-front-end
 ```
 or
 ```bash
-yarn create react-app my-App --template course-frontEnd
+yarn create react-app my-App --template course-front-end
 ```
