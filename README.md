@@ -13,10 +13,6 @@ This template is Front-End Course
 ```bash
 Eslint
 Stylelint
-Redux
-Redux-Thunk
-Redux-DevTools
-React-Redux
 React-Router-Dom
 ```
 
