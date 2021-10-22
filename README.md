@@ -4,7 +4,7 @@
 
 <br/>
 
-This template is Front-End Course
+This template is Front-End Course Linting
 
 <br/>
 
