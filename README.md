@@ -4,7 +4,7 @@
 
 <br/>
 
-This template is Front-End Course
+This template is Front-End Course Linting
 
 <br/>
 
@@ -13,7 +13,6 @@ This template is Front-End Course
 ```bash
 Eslint
 Stylelint
-React-Router-Dom
 ```
 
 # Usage
